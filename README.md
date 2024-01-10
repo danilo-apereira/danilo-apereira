@@ -10,12 +10,13 @@ Em 2024, estou dando continuidade à minha trajetória profissional, agora como 
 
 # 💻 Habilidades
 <div style="display: inline_block">
-<img align="center" alt="Danilo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="Danilo-Py" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Danilo-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="Danilo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Danilo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Danilo-Css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<a href="https://github.com/danilo-apereira/trinkets-in-java"><img align="center" alt="Danilo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
+<a href="https://github.com/danilo-apereira/trinkets-in-python"><img align="center" alt="Danilo-Py" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
+<a href="https://github.com/danilo-apereira/trinkets-in-csharp"><img align="center" alt="Danilo-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></a>
+<a href="https://github.com/danilo-apereira/project-psychology"><img align="center" alt="Danilo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
+<a href="https://github.com/danilo-apereira/project-psychology"><img align="center" alt="Danilo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+<a href="https://github.com/danilo-apereira/project-psychology"><img align="center" alt="Danilo-Css" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+<a href="https://github.com/danilo-apereira/trinkets-in-sql"><img align="center" alt="Danilo-Mysql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></a>
 </div>
 
 # 🌐 Redes Sociais
